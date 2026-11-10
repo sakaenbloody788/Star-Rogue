@@ -203,4 +203,4 @@ This repository serves as the official landing page for Star Rogue. The software
 **Get the most recent version of Star Rogue today!**
 
 ---
-**Last updated:** 2026-11-09 19:15:24 UTC
+**Last updated:** 2026-11-10 02:26:44 UTC
